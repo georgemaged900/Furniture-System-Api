@@ -21,7 +21,7 @@ It simplifies and automates:
 | Layer        | Tech Used                                  |
 |--------------|---------------------------------------------|
 | Frontend     | React, TypeScript, MUI (Material UI), Redux Toolkit |
-| Backend      | ASP.NET Core 8+, Entity Framework Core, SQL Server |
+| Backend      | ASP.NET Core 9, Entity Framework Core, SQL Server |
 | API Design   | RESTful, DTO-based                         |
 | Validation   | Client-side & server-side (no invalid or negative values) |
 | Misc         | Arabic RTL support, Excel-like dynamic table UI |
